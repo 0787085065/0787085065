@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Joseph — IT Support & Network Engineer 👋
 
-<!--
-**0787085065/0787085065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cisco Certified | UICT | Python & Data Science | WQU Lab**
+📍 Kampala, Uganda | Open to Remote Roles
 
-Here are some ideas to get you started:
+- 🔧 **IT Support & Networking:** Windows, Cisco Packet Tracer, Network Troubleshooting
+- 🐍 **Python & Data:** Data Analysis, Machine Learning, WQU Applied Data Science Lab
+- 🛠️ **Tools:** Git, GitHub, Linux, MySQL
+- 🎯 **Looking for:** IT Support / Network Engineer / ICT Officer roles in Uganda & Remote
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect:** github.com/0787085065 | LinkedIn: [Add your LinkedIn link]
+⭐ **My Projects:** Check pinned repos below
+
+*Currently building House Price Prediction with Python*
